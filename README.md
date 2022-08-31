@@ -34,5 +34,5 @@ Troubleshooting
 
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
 
-
-
+## Dependencies
+Unfolding Maps: http://unfoldingmaps.org/
