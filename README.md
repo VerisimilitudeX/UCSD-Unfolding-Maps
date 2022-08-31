@@ -5,7 +5,7 @@ Object Oriented Programming in Java: Course Project
 
 This repository contains my work for the Object Oriented Programming in Java course offered by 
 UC San Diego through Coursera, part 1 of 5 in the Java Programming: Object-Oriented Design of Data Structures specialization. 
-It uses Unfolding Map and Processing in Eclipse.
+It uses Unfolding Maps and Processing in Eclipse.
 
 
 The module folders contains the modified starter code and solutions to the required programming assignments
